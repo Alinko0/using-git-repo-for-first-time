@@ -4,3 +4,5 @@ description: MY PUBLIC GITHUB PAGE
 
 # Initial page
 
+I HAVE STARTED USING THIS SPACE ON MY OWN
+
